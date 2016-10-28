@@ -1,0 +1,1 @@
+Back up for the web part of uncertainty visualization projects. To run this part, you can use Node.js to start the index.js. Part of the web pages are not in use anymore. The live applicable pages are: index.html, metrics.html and snapshotBrowser.html.
