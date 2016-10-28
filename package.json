@@ -1,0 +1,11 @@
+{
+  "name": "WSV",
+  "version": "0.0.1",
+  "description": "Water Scarcity Visualization",
+  "dependencies": {
+    "express": "~4.13.3",
+    "socket.io": "1.0.2",
+    "jquery": "1.7.2",
+    "phantomjs": "~1.9.18"
+  }
+}

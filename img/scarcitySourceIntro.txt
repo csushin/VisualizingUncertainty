@@ -1,0 +1,1 @@
+Water scarcity is based on the Falkenmark indicator. It requires computing water crowding, as the ratio between Blue Water and population, and comparing it with the following thresholds:

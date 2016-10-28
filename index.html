@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Water Scarcity Demo</title>
+<link rel="stylesheet" href="css/leaflet.0.7.3.css" />
+<!-- <link rel="stylesheet" href="css/leaflet-0.8-dev.css" /> -->
+<link rel="stylesheet" href="css/leaflet.draw.css" />
+<link rel="stylesheet" href="css/leaflet-areaselect.css" />
+<link rel="stylesheet" href="css/font-awesome-4.2.0/css/font-awesome.min.css" />
+<link rel="stylesheet" href="css/d3.slider.css" />
+<link rel="stylesheet" href="lib/jquery-ui-1.11.4.custom/jquery-ui.min.css">
+<link rel="stylesheet" href="lib/jquery-ui-1.11.4.custom/jquery-ui.theme.min.css">
+<link rel="stylesheet" href="lib/jquery-ui-1.11.4.custom/jquery-ui.structure.min.css">
+<link rel="stylesheet" href="css/c3.min.css" />
+<link rel="stylesheet" href="css/bootstrap-css/bootstrap.min.css" />
+<link rel="stylesheet" href="css/bootstrap-css/bootstrap-theme.min.css" />
+<link rel="stylesheet" href="css/bootstrap-dialog.css" />
+<link rel="stylesheet" href="css/bootstrap-slider.css" />
+<link rel="stylesheet" href="css/L.Control.Sidebar.css" />
+<link rel="stylesheet" href="css/ChatManager.css" />
+<link rel="stylesheet" href="css/index.css"/>
+<!--  <script>L_PREFER_CANVAS = true;</script> -->
+<script type = "text/javascript" src="lib/leaflet.0.7.3.js"></script>
+<!-- <script type = "text/javascript" src="lib/leaflet-0.8-dev.js"></script> -->
+<script type = "text/javascript" src="lib/leaflet.draw.js"></script>
+<!-- <script type = "text/javascript" src="lib/leaflet.wms.js"></script> -->
+<script type = "text/javascript" src="lib/L.Mask.js"></script>
+<script type = "text/javascript" src="lib/jquery-2.1.1.min.js"></script>
+<script type = "text/javascript" src="lib/jquery-ui-1.11.4.custom/jquery-ui.js"></script>
+<script type = "text/javascript" src="lib/d3/d3.min.js"></script>
+<script type = "text/javascript" src="lib/d3.slider.js"></script>
+<script type = "text/javascript" src="lib/c3.min.js"></script>
+<script type = "text/javascript" src="lib/shp.min.js"></script>
+<script type = "text/javascript" src="lib/easy-button.js"></script>
+<script type = "text/javascript" src="lib/leaflet-areaselect.js"></script>
+<script type = "text/javascript" src="lib/bootstrap.min.js"></script>
+<script type = "text/javascript" src="lib/bootstrap-dialog.js"></script>
+<script type = "text/javascript" src="lib/bootstrap-slider.js"></script>
+<script type = "text/javascript" src="lib/qrcode.js"></script>
+<script type = "text/javascript" src="lib/jquery.qrcode.js"></script>
+<script type = "text/javascript" src="lib/L.Control.Sidebar.js"></script>
+<script type = "text/javascript" src="lib//socket.io-1.3.3.js"></script>
+<script type = "text/javascript" src = "lib/ChatManager.js"></script> 
+
+<script type = "text/javascript" src = "javascript/public/imgFastGeneration.js"></script> 
+<script type = "text/javascript" src = "javascript/public/imageGenerator.js"></script> 
+<script type = "text/javascript" src = "javascript/public/createColorMapper.js"></script>
+<script type = "text/javascript" src = "javascript/index/eventFunc.js"></script>
+<script type = "text/javascript" src = "javascript/index/snapshotSocket.js"></script>
+<script type = "text/javascript" src = "javascript/index/geoserverRequest.js"></script>
+<script type = "text/javascript" src = "javascript/index/globalVariables.js"></script> 
+<script type = "text/javascript" src = "javascript/index/LoadParamsOptions.js"></script> 
+<script type = "text/javascript" src = "javascript/index/createMapIconsEvent.js"></script>
+<script type = "text/javascript" src = "javascript/index/projectImg2Map.js"></script> 
+<script type = "text/javascript" src = "javascript/index/mapLegendInfo.js"></script> 
+<script type = "text/javascript" src = "javascript/index/drawShapeFile.js"></script>
+<script type = "text/javascript" src = "javascript/index/stationChart.js"></script>
+<script type = "text/javascript" src = "javascript/index/plotScaricityMap.js"></script> 
+<script type = "text/javascript" src = "javascript/index/loadMultiLayers.js"></script>
+<script type = "text/javascript" src = "javascript/QRCode/QRCodeManager.js"></script>
+<script type = "text/javascript" src = "javascript/index/CommunicationEventCue.js"></script>
+<script type = "text/javascript" src = "javascript/index/CommunicationGCAM.js"></script>
+<script type = "text/javascript" src = "javascript/index/parseGCAMDemand.js"></script>
+<script type = "text/javascript" src = "javascript/index/readyFunc.js"></script>
+<script type = "text/javascript" src='https://api.mapbox.com/mapbox.js/plugins/leaflet-image/v0.0.4/leaflet-image.js'></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="mapWrapper">
+            <div id="scarcityMap"></div>
+            <div id="waterMap"></div>
+            <div id='fakeMap'></div>
+        </div> 
+        <div id='secRowContainer'>
+            <div class='normalPop' id="popMap">
+                <div id="blurringlayer"></div>
+            </div>
+            <div id='interactionZone'>
+                <!-- <div id='timeSeries'>  </div> -->
+                <div id="configurationZone">
+                    <div class='paramsZone' id='waterParamsZone' style='width: 55%;'>
+                        <div class='selectionBox' id='dataSwitch' >
+                            <input type = 'radio' name='switch' value='oldData' checked='checked'/>Old Data
+                            <input type = 'radio' name='switch' value='newData'/>New Data
+                        </div>
+                         <div class='selectionBox' id="expDiv" >
+                             Emission:
+                             <select id="EXPCombo"></select>
+                         </div>
+                         <div class='selectionBox' id="gcmDiv" >
+                             Global Climate Model:
+                             <select id="GCMCombo"></select>
+                         </div>
+                         <div class='selectionBox' id="rcmDiv" >
+                             Regional Climate Model:
+                             <select id="RCMCombo"></select>
+                         </div>
+                         <div class='selectionBox' id="varDiv" >
+                             VAR:
+                             <select id="VARCombo"></select>
+                         </div>
+                         <div class='selectionBox' id="yearDiv" >
+                             YEARTYPE:
+                             <select id="YEARTYPECombo"></select>
+                         </div>
+                    </div>
+                    <div class='paramsZone' id='popParamsZone' style='width: 44%;'>
+                         <div id='demandDataSwitch'>
+                            <input type = 'radio' name='demandSwitch' value='popData' checked='checked'/>Demand From Popuplation
+                            <input type = 'radio' name='demandSwitch' value='gcamData'/>Demand From GCAM
+                        </div>
+                        <div id="populationDemand">
+                             <div class='selectionBox' id="populationParamsZone">
+                                 Population:
+                                 <select id="POPCombo"></select>
+                             </div>
+                             <div class='selectionBox' id="popGrowthRate" >
+                                 <div id='popGrowthRateText'>Growth Rate: 1%</div>
+                                 <div id='popGrowthRateSlider'></div>
+                                 <!-- <input  id='popGrowthRateSlider' data-slider-id='popGrowthRateSlider'/> -->
+
+                             </div>
+                         </div>
+                         <div id="gcamDemand" style="display: none;">
+                            <div id="demandType">
+                                <ul>
+                                    <li id='gcamDemandType'>Demand Type: Unknown</li>
+                                    <li id='gcamDemandYear'>Year: Unknown</li>
+                                </ul>
+                            </div>
+                         </div>
+                    </div>
+                </div>
+                <div id='timeZone'> 
+                        <div id='timeZoneText'>Year: 1960</div>
+                        <div id='timeZoneSlider'></div>
+                        <!-- <div id='timeZoneSlider'  data-slider-id='timeZoneSlider'></div> -->
+                </div>
+                <div id='shareParamsZone'>
+                    <div id='shareButtonsZone'>
+                        <!-- <div id="saveDiv" class='button'> -->
+                            <input type='button' name='savaParams' value='Save Snapshots' onClick='saveParameters()'/>
+                        <!-- </div> -->
+                        <!-- <div id="snapPoolDiv" class='button'> -->
+                            <input type='button' name='openSnapPool' value='Open Snapshot Browser' onClick='openSnapPoolDiv()'/>
+                        <!-- </div> -->
+                        <!-- <div id="prjDiv" class='button'> -->
+                           <!-- <input type="button" name="addNewMap" value="Developing Mode" onClick="mask()"/> -->
+                        <!-- </div> -->
+                    </div>
+                    <div id='QRCode'>
+                        For more information:
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="chat" id="popSidebar"></div>
+    <div class="chat" id="scarcitySidebar"></div>  
+    <div class="chat" id="waterSidebar"></div>
+<script src = "javascript/index/map.js"></script>
+<script src = "javascript/index/drawRect.js"></script> 
+<script >
+//window.open("uncertaintyPanel.html");
+</script>
+</body>
+</html>

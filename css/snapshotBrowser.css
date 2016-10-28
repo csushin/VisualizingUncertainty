@@ -1,0 +1,84 @@
+body.snapshotBrowser{
+padding:10px;
+margin:0px;
+background-image: url("snapshotBrowserBackground3.png");
+background-repeat: no-repeat;
+background-color: #fff;
+}
+
+div.groupByBox{
+    font-size:20px;
+    margin:10px;
+}
+
+div.groupByBox select{
+    font-size:20px;
+    margin:10px;
+}
+
+div.groupContainer {
+    float:left;
+    border:5px solid #000;
+    border-radius: 25px;
+    background-color:rgba(150,150,150,0.3);
+    overflow:hidden;
+    margin:10px;
+    max-width:750px;
+}
+
+div.groupContainer h1 {
+    margin:10px 20px 10px 20px;
+}
+
+div.snapshotBrowserWindow{
+    border:1px solid #000;
+    border-radius: 25px;
+    background-color: #fff;
+    padding:10px;
+    position:absolute;
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 50%;
+    z-index:1002;
+    overflow: auto;	
+}
+
+table.snapshot {
+    border:5px solid #fff;
+    border-radius: 25px;
+    background-color: #2a78aa;
+    font-size: 0.8em;
+    padding:5px 0px;
+    margin:5px;
+    float:left;
+    width:350px;
+    cursor:pointer;
+    color:#fff;
+}
+
+table.snapshot:hover{
+    border-color:#000;
+}
+
+table.snapshot tr:first-child td:first-child{
+    width:80px;
+}
+
+table.snapshot tr:first-child td:nth-child(2){
+    font-weight:bold;
+    font-size: 1.6em;    
+}
+
+table.snapshot tr:nth-child(2) td:nth-child(1){
+    width: 30px;    
+}
+
+table.snapshot h1{
+    text-align:center;
+    padding:5px 10px 0 10px;
+    margin:0;
+    font-family: "arial", Georgia, Serif;
+    font-size:4em;
+    font-style:italic;    
+}

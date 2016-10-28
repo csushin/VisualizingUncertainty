@@ -1,0 +1,4658 @@
+listening on *:8880
+user 14 connected
+user 5 connected
+user 0 connected
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:901:11)
+    at Server._listen2 (net.js:1039:14)
+    at listen (net.js:1061:10)
+    at Server.listen (net.js:1135:5)
+    at Object.<anonymous> (/home/xliang22/water/index.js:45:6)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Function.Module.runMain (module.js:497:10)
+user 48 connected
+user 37 connected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 1 connected
+user 2 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 4 connected
+user 5 connected
+user 6 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 7 connected
+user 8 connected
+user 9 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 10 connected
+user 37 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 5 connected
+user 11 connected
+User Disconnected
+user 12 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 5 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+user 36 connected
+User Disconnected
+user 36 connected
+user 36 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 36 connected
+User Disconnected
+user 36 connected
+User Disconnected
+user 14 connected
+user 36 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 36 connected
+user 36 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 36 connected
+User Disconnected
+User Disconnected
+user 36 connected
+user 14 connected
+User Disconnected
+user 36 connected
+user 36 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 36 connected
+user 14 connected
+User Disconnected
+user 36 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 36 connected
+User Disconnected
+user 48 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 13 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 37 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 28 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 14 connected
+user 3 connected
+user 3 connected
+Snapshot Recieved:
+{ title: 'Tsest',
+  user: 'Xing',
+  icon: '',
+  date: '2015-02-12T18:42:01.582Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'By Year',
+     grSliderVal: 1,
+     tSliderVal: 1960 } }
+Snapshot Selected by User 3
+User Disconnected
+User Disconnected
+user 0 connected
+user 0 connected
+Snapshot Selected by User 0
+user 14 connected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 37 connected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 5 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 3 connected
+user 14 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 14 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 14 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+user 3 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 15 connected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+user 16 connected
+user 15 connected
+User Disconnected
+User Disconnected
+user 16 connected
+user 15 connected
+user 15 connected
+user 5 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+user 15 connected
+user 15 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 17 connected
+user 16 connected
+user 16 connected
+User Disconnected
+user 5 connected
+User Disconnected
+user 5 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 18 connected
+user 15 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+listening on *:8880
+user 48 connected
+user 37 connected
+user 15 connected
+user 3 connected
+user 3 connected
+user 3 connected
+user 0 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 0 connected
+Snapshot Recieved:
+{ title: 'Test scneario',
+  user: 'Dave',
+  icon: '',
+  date: '2015-02-12T23:52:03.266Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 5 },
+     supply: { centerView: [Object], zoomLevel: 5 },
+     scarcity: { centerView: [Object], zoomLevel: 5 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'HadGEM2-ES',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Shared Social Path 1',
+     YEAR: 'Climatological Mean',
+     grSliderVal: 1,
+     tSliderVal: 2050 } }
+user 0 connected
+user 0 connected
+Snapshot Selected by User 0
+user 0 connected
+Snapshot Recieved:
+{ title: 'Test 2',
+  user: 'Pat',
+  icon: '',
+  date: '2015-02-12T23:53:16.015Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Lower Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'HIRHAM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'Wet',
+     grSliderVal: 3,
+     tSliderVal: 2050 } }
+user 0 connected
+Snapshot Selected by User 0
+Snapshot Selected by User 0
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 0 connected
+user 0 connected
+user 0 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 15 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 37 connected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+user 37 connected
+user 28 connected
+user 28 connected
+Snapshot Selected by User 28
+Snapshot Selected by User 28
+Snapshot Selected by User 28
+Snapshot Selected by User 28
+Snapshot Selected by User 28
+Snapshot Selected by User 28
+User Disconnected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 50 connected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 50 connected
+Snapshot Selected by User 50
+Snapshot Selected by User 50
+Snapshot Selected by User 50
+Snapshot Selected by User 50
+user 28 connected
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+Snapshot Selected by User 50
+Snapshot Selected by User 50
+Snapshot Selected by User 50
+Snapshot Selected by User 50
+User Disconnected
+user 28 connected
+Snapshot Recieved:
+{ title: 'foobar',
+  user: 'steve',
+  icon: '',
+  date: '2015-02-13T15:41:50.890Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'By Year',
+     grSliderVal: 1,
+     tSliderVal: 1960 } }
+Snapshot Selected by User 50
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+Snapshot Selected by User 50
+Snapshot Selected by User 50
+Snapshot Selected by User 50
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 28 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 0 connected
+User Disconnected
+user 1 connected
+User Disconnected
+user 2 connected
+User Disconnected
+user 28 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 4 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 5 connected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+user 5 connected
+user 3 connected
+user 5 connected
+user 28 connected
+user 5 connected
+user 5 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+user 37 connected
+User Disconnected
+user 5 connected
+user 28 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 5 connected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 3 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 28 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+user 5 connected
+user 5 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Recieved:
+{ title: 'test',
+  user: 'Xing',
+  icon: '',
+  date: '2015-02-13T19:57:07.563Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Lower Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'HIRHAM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'Wet',
+     grSliderVal: 3,
+     tSliderVal: 2050 } }
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+listening on *:8880
+user 0 connected
+user 48 connected
+user 15 connected
+user 5 connected
+user 37 connected
+user 5 connected
+user 0 connected
+user 0 connected
+user 3 connected
+Snapshot Recieved:
+{ title: 'Test 1',
+  user: 'Xing',
+  icon: '',
+  date: '2015-02-13T20:04:42.313Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'By Year',
+     grSliderVal: 1,
+     tSliderVal: 1960 } }
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+Snapshot Recieved:
+{ title: 'Test 2',
+  user: 'Xing',
+  icon: '',
+  date: '2015-02-13T20:24:02.265Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'By Year',
+     grSliderVal: 1,
+     tSliderVal: 2030 } }
+user 3 connected
+Snapshot Selected by User 3
+user 3 connected
+Snapshot Recieved:
+{ title: 'Test 3',
+  user: 'Xing',
+  icon: '',
+  date: '2015-02-13T20:24:33.752Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'By Year',
+     grSliderVal: 1,
+     tSliderVal: 2075 } }
+User Disconnected
+user 3 connected
+User Disconnected
+Snapshot Recieved:
+{ title: 'Test 4',
+  user: 'Xing',
+  icon: '',
+  date: '2015-02-13T20:25:42.718Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'By Year',
+     grSliderVal: 1,
+     tSliderVal: 2015 } }
+Snapshot Recieved:
+{ title: 'Test 5',
+  user: 'Xing',
+  icon: '',
+  date: '2015-02-13T20:25:54.916Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'By Year',
+     grSliderVal: 1,
+     tSliderVal: 2080 } }
+Snapshot Selected by User 3
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+Snapshot Selected by User 3
+User Disconnected
+Snapshot Selected by User 3
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Recieved:
+{ title: 'Test 7',
+  user: 'Xing',
+  icon: '',
+  date: '2015-02-13T20:46:01.303Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'By Year',
+     grSliderVal: 1,
+     tSliderVal: 2050 } }
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 0 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Recieved:
+{ title: 'Test 6',
+  user: 'Xing',
+  icon: '',
+  date: '2015-02-13T21:11:13.272Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 2 },
+     supply: { centerView: [Object], zoomLevel: 2 },
+     scarcity: { centerView: [Object], zoomLevel: 2 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'By Year',
+     grSliderVal: 1,
+     tSliderVal: 2025 } }
+user 3 connected
+User Disconnected
+user 1 connected
+User Disconnected
+user 2 connected
+user 28 connected
+user 28 connected
+user 1 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 1 connected
+User Disconnected
+user 15 connected
+user 28 connected
+user 1 connected
+user 28 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 1 connected
+User Disconnected
+user 1 connected
+User Disconnected
+user 1 connected
+User Disconnected
+user 1 connected
+User Disconnected
+user 1 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 15 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 15 connected
+User Disconnected
+User Disconnected
+user 15 connected
+user 15 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 15 connected
+user 15 connected
+User Disconnected
+User Disconnected
+user 15 connected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+user 15 connected
+user 15 connected
+User Disconnected
+user 15 connected
+user 15 connected
+User Disconnected
+User Disconnected
+user 15 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 15 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+Snapshot Selected by User 3
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 15 connected
+user 16 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 1 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+user 14 connected
+Snapshot Selected by User 14
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 47 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 37 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 37 connected
+User Disconnected
+user 37 connected
+user 37 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 37 connected
+User Disconnected
+User Disconnected
+user 37 connected
+user 15 connected
+user 15 connected
+User Disconnected
+User Disconnected
+user 15 connected
+user 15 connected
+User Disconnected
+User Disconnected
+user 15 connected
+User Disconnected
+user 37 connected
+User Disconnected
+user 37 connected
+User Disconnected
+user 37 connected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 37 connected
+user 37 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 37 connected
+User Disconnected
+user 37 connected
+User Disconnected
+user 37 connected
+user 16 connected
+user 3 connected
+user 30 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 30 connected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+user 16 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 3 connected
+user 28 connected
+User Disconnected
+user 4 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 4 connected
+Snapshot Selected by User 4
+Snapshot Selected by User 4
+Snapshot Selected by User 4
+user 28 connected
+Snapshot Selected by User 4
+Snapshot Selected by User 4
+Snapshot Selected by User 4
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 4 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 2 connected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+user 2 connected
+User Disconnected
+user 2 connected
+user 2 connected
+user 4 connected
+user 4 connected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 28 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 5 connected
+User Disconnected
+user 5 connected
+User Disconnected
+user 5 connected
+user 28 connected
+user 16 connected
+User Disconnected
+User Disconnected
+user 5 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 28 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 5 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 3 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 28 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 5 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+user 15 connected
+user 15 connected
+user 15 connected
+user 15 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 15 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 6 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 0 connected
+user 47 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 16 connected
+user 15 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 0 connected
+user 3 connected
+user 28 connected
+Snapshot Recieved:
+{ title: '',
+  user: 'Ross ',
+  icon: '',
+  date: '2015-02-17T19:26:17.477Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'By Year',
+     grSliderVal: 1,
+     tSliderVal: 1960 } }
+user 3 connected
+Snapshot Selected by User 3
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+listening on *:8880
+user 0 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 4 connected
+user 4 connected
+user 48 connected
+user 3 connected
+user 3 connected
+user 3 connected
+Snapshot Recieved:
+{ title: 'HighEm_ECr3-HIRHAM_ClimatMean_SSP',
+  user: 'Dave',
+  icon: '',
+  date: '2015-02-17T21:18:23.053Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'EC-EARTH-r3',
+     RCM: 'HIRHAM',
+     VAR: 'BW',
+     POP: 'Shared Social Path 1',
+     YEAR: 'Climatological Mean',
+     grSliderVal: 1,
+     tSliderVal: 2040 } }
+User Disconnected
+User Disconnected
+Snapshot Selected by User 4
+Snapshot Selected by User 4
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+user 4 connected
+Snapshot Selected by User 4
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 28 connected
+User Disconnected
+user 0 connected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 1 connected
+user 28 connected
+User Disconnected
+user 2 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 4 connected
+user 4 connected
+User Disconnected
+user 4 connected
+Snapshot Selected by User 4
+Snapshot Selected by User 4
+User Disconnected
+User Disconnected
+user 4 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 4 connected
+user 4 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 4 connected
+User Disconnected
+user 5 connected
+user 5 connected
+User Disconnected
+User Disconnected
+user 28 connected
+User Disconnected
+user 4 connected
+user 4 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+Snapshot Selected by User 4
+user 28 connected
+Snapshot Recieved:
+{ title: 'cox-cope-crisis',
+  user: 'Edward',
+  icon: '',
+  date: '2015-02-18T18:11:42.693Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Lower Emission',
+     GCM: 'CNRM-CM5',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'Dry',
+     grSliderVal: 3,
+     tSliderVal: 2025 } }
+Snapshot Selected by User 4
+Snapshot Selected by User 4
+Snapshot Selected by User 4
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+user 28 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 6 connected
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 7 connected
+User Disconnected
+user 4 connected
+user 4 connected
+Snapshot Selected by User 4
+Snapshot Recieved:
+{ title: 'High emission with W.P ... Model',
+  user: 'Ross test model',
+  icon: '',
+  date: '2015-02-19T23:55:37.839Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 5 },
+     supply: { centerView: [Object], zoomLevel: 5 },
+     scarcity: { centerView: [Object], zoomLevel: 5 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Shared Social Path 1',
+     YEAR: 'Climatological Mean',
+     grSliderVal: 1,
+     tSliderVal: 2040 } }
+user 28 connected
+Snapshot Recieved:
+{ title: 'test😱',
+  user: 'lj',
+  icon: '',
+  date: '2015-02-19T23:58:50.688Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 4 },
+     supply: { centerView: [Object], zoomLevel: 4 },
+     scarcity: { centerView: [Object], zoomLevel: 4 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'By Year',
+     grSliderVal: 3,
+     tSliderVal: 1960 } }
+user 28 connected
+Snapshot Selected by User 28
+User Disconnected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 48 connected
+user 48 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 8 connected
+User Disconnected
+user 9 connected
+User Disconnected
+User Disconnected
+user 28 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 3 connected
+user 47 connected
+User Disconnected
+User Disconnected
+user 10 connected
+User Disconnected
+user 11 connected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 12 connected
+User Disconnected
+user 15 connected
+user 15 connected
+User Disconnected
+User Disconnected
+user 4 connected
+User Disconnected
+user 4 connected
+user 3 connected
+user 4 connected
+User Disconnected
+Snapshot Selected by User 4
+Snapshot Selected by User 4
+Snapshot Selected by User 4
+Snapshot Selected by User 4
+user 4 connected
+Snapshot Selected by User 4
+Snapshot Selected by User 4
+Snapshot Selected by User 4
+User Disconnected
+user 4 connected
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+user 3 connected
+Snapshot Selected by User 3
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+User Disconnected
+Snapshot Selected by User 3
+User Disconnected
+user 3 connected
+User Disconnected
+Snapshot Selected by User 3
+user 3 connected
+Snapshot Selected by User 3
+User Disconnected
+Snapshot Selected by User 3
+User Disconnected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+user 3 connected
+User Disconnected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+Snapshot Selected by User 3
+user 3 connected
+user 13 connected
+User Disconnected
+user 3 connected
+user 13 connected
+Snapshot Selected by User 13
+user 3 connected
+Snapshot Selected by User 13
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 13
+User Disconnected
+User Disconnected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+user 3 connected
+User Disconnected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+user 3 connected
+Snapshot Selected by User 3
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+User Disconnected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+User Disconnected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+user 5 connected
+User Disconnected
+user 5 connected
+Snapshot Selected by User 5
+Snapshot Selected by User 5
+Snapshot Selected by User 5
+Snapshot Selected by User 5
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+user 3 connected
+Snapshot Selected by User 3
+User Disconnected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+user 3 connected
+Snapshot Selected by User 3
+User Disconnected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 14 connected
+user 14 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 15 connected
+User Disconnected
+User Disconnected
+user 15 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 16 connected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 17 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 14 connected
+user 14 connected
+Snapshot Selected by User 14
+Snapshot Selected by User 14
+Snapshot Selected by User 14
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 5 connected
+user 5 connected
+user 15 connected
+User Disconnected
+User Disconnected
+user 5 connected
+user 5 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Selected by User 3
+Snapshot Selected by User 3
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 18 connected
+user 18 connected
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+Snapshot Selected by User 18
+User Disconnected
+User Disconnected
+user 19 connected
+User Disconnected
+user 20 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 5 connected
+User Disconnected
+user 3 connected
+user 21 connected
+User Disconnected
+User Disconnected
+user 15 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 19 connected
+User Disconnected
+user 19 connected
+User Disconnected
+user 22 connected
+User Disconnected
+user 22 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 16 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 4 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 7 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+Snapshot Recieved:
+{ title: 'test0401',
+  user: 'Xing',
+  icon: '',
+  date: '2015-04-01T22:24:40.307Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 6 },
+     supply: { centerView: [Object], zoomLevel: 6 },
+     scarcity: { centerView: [Object], zoomLevel: 6 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'Climatological Mean',
+     grSliderVal: 1,
+     tSliderVal: 2050 } }
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 0 connected
+User Disconnected
+user 0 connected
+User Disconnected
+user 0 connected
+user 0 connected
+User Disconnected
+user 0 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 6 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 23 connected
+User Disconnected
+user 23 connected
+User Disconnected
+User Disconnected
+user 23 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 23 connected
+User Disconnected
+user 23 connected
+User Disconnected
+User Disconnected
+user 23 connected
+user 23 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 24 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 25 connected
+user 26 connected
+User Disconnected
+User Disconnected
+user 27 connected
+user 28 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 29 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+user 15 connected
+User Disconnected
+User Disconnected
+user 51 connected
+user 20 connected
+User Disconnected
+user 51 connected
+User Disconnected
+user 51 connected
+user 30 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 3 connected
+user 3 connected
+user 3 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 3 connected
+User Disconnected
+user 22 connected
+user 22 connected
+User Disconnected
+user 15 connected
+user 22 connected
+User Disconnected
+user 22 connected
+User Disconnected
+User Disconnected
+user 3 connected
+User Disconnected
+User Disconnected
+user 31 connected
+User Disconnected
+user 22 connected
+user 32 connected
+user 33 connected
+user 34 connected
+user 34 connected
+User Disconnected
+User Disconnected
+user 34 connected
+user 35 connected
+user 22 connected
+user 34 connected
+user 34 connected
+User Disconnected
+User Disconnected
+user 34 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 34 connected
+user 36 connected
+User Disconnected
+user 37 connected
+User Disconnected
+User Disconnected
+user 22 connected
+User Disconnected
+user 34 connected
+User Disconnected
+user 34 connected
+User Disconnected
+User Disconnected
+user 38 connected
+User Disconnected
+user 39 connected
+User Disconnected
+user 40 connected
+User Disconnected
+user 15 connected
+User Disconnected
+user 22 connected
+User Disconnected
+user 41 connected
+user 41 connected
+user 42 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 3 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 22 connected
+User Disconnected
+user 22 connected
+user 22 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 22 connected
+User Disconnected
+user 31 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 31 connected
+user 31 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 44 connected
+user 44 connected
+User Disconnected
+user 31 connected
+User Disconnected
+user 31 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 44 connected
+User Disconnected
+user 44 connected
+User Disconnected
+User Disconnected
+user 31 connected
+User Disconnected
+user 44 connected
+user 44 connected
+User Disconnected
+User Disconnected
+user 44 connected
+user 44 connected
+User Disconnected
+user 31 connected
+user 44 connected
+user 44 connected
+User Disconnected
+User Disconnected
+user 44 connected
+User Disconnected
+user 44 connected
+User Disconnected
+User Disconnected
+user 31 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 45 connected
+user 5 connected
+user 43 connected
+User Disconnected
+user 46 connected
+user 46 connected
+user 46 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 31 connected
+user 5 connected
+User Disconnected
+user 47 connected
+User Disconnected
+user 47 connected
+user 48 connected
+User Disconnected
+user 47 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 49 connected
+user 50 connected
+user 50 connected
+User Disconnected
+user 50 connected
+user 50 connected
+User Disconnected
+user 51 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 47 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 52 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 31 connected
+user 31 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 31 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Recieved:
+{ title: 'MPI-ESM-LR_CCLM_RCP85_CM',
+  user: 'Test_Xing-05/13/2015',
+  icon: '',
+  date: '2015-05-14T00:03:22.146Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 5 },
+     supply: { centerView: [Object], zoomLevel: 5 },
+     scarcity: { centerView: [Object], zoomLevel: 5 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Shared Social Path 1',
+     YEAR: 'Climatological Mean',
+     grSliderVal: 1,
+     tSliderVal: 2005 } }
+user 43 connected
+User Disconnected
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+user 43 connected
+user 43 connected
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+User Disconnected
+Snapshot Recieved:
+{ title: 'RCP85_MPI-ESM-LR_CLLM_2025',
+  user: 'Test05/13/2015',
+  icon: '',
+  date: '2015-05-14T00:05:41.871Z',
+  mapInfo: 
+   { demand: { centerView: [Object], zoomLevel: 3 },
+     supply: { centerView: [Object], zoomLevel: 3 },
+     scarcity: { centerView: [Object], zoomLevel: 3 } },
+  paramInfo: 
+   { EXP: 'Higher Emission',
+     GCM: 'MPI-ESM-LR',
+     RCM: 'CCLM',
+     VAR: 'BW',
+     POP: 'Exponential Growth',
+     YEAR: 'By Year',
+     grSliderVal: 3,
+     tSliderVal: 2025 } }
+User Disconnected
+user 43 connected
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+Snapshot Selected by User 43
+user 43 connected
+user 43 connected
+User Disconnected
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+User Disconnected
+user 43 connected
+user 43 connected
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+Snapshot Selected by User 43
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+Snapshot Selected by User 43
+user 43 connected
+user 43 connected
+Snapshot Selected by User 43
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+User Disconnected
+User Disconnected
+user 53 connected
+User Disconnected
+user 14 connected
+User Disconnected
+user 44 connected
+user 44 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+Snapshot Selected by User 43
+Snapshot Selected by User 43
+User Disconnected
+user 43 connected
+User Disconnected
+user 31 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 31 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 31 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 46 connected
+user 43 connected
+user 46 connected
+user 43 connected
+User Disconnected
+user 46 connected
+User Disconnected
+User Disconnected
+user 46 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 46 connected
+user 46 connected
+user 46 connected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 46 connected
+user 46 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+User Disconnected
+user 54 connected
+User Disconnected
+user 54 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 54 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 55 connected
+User Disconnected
+user 56 connected
+user 57 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 5 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 14 connected
+user 14 connected
+User Disconnected
+User Disconnected
+user 14 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 14 connected
+User Disconnected
+user 54 connected
+User Disconnected
+user 54 connected
+User Disconnected
+user 43 connected
+User Disconnected
+user 54 connected
+user 54 connected
+User Disconnected
+user 54 connected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+Snapshot Selected by User 43
+user 43 connected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 43 connected
+user 43 connected
+user 43 connected
+user 43 connected
+User Disconnected
+User Disconnected
+User Disconnected
+User Disconnected
+user 43 connected
+User Disconnected
+user 57 connected
+User Disconnected
+user 5 connected
+user 5 connected
+User Disconnected
+User Disconnected
+user 58 connected
+User Disconnected
+user 54 connected
+user 54 connected
+Snapshot Selected by User 54
+User Disconnected
+User Disconnected
+user 59 connected
+User Disconnected
+user 51 connected
+user 51 connected
+User Disconnected
+User Disconnected
+user 59 connected
+User Disconnected
+user 60 connected
+user 60 connected
+User Disconnected
+User Disconnected
+user 61 connected
+User Disconnected
+user 62 connected
+user 62 connected
+Snapshot Selected by User 62
+Snapshot Selected by User 62
+Snapshot Selected by User 62
+Snapshot Selected by User 62
+Snapshot Selected by User 62
+User Disconnected
+User Disconnected
+user 61 connected
+User Disconnected

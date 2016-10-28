@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Geotiff Demo - Snapshots</title>
+<link rel="stylesheet" href="css/snapshotOverview.css" />
+<script type ="text/javascript" src="lib/leaflet.js"></script>
+<script type = "text/javascript" src="/socket.io/socket.io.js"></script>
+<script type ="text/javascript" src="lib/jquery-2.1.1.min.js"></script>
+<script type ="text/javascript" src="lib/jquery-ui-1.11.0/jquery-ui.js"></script>
+
+<script type = "text/javascript">
+	snapshotPool = [];
+
+	var clientNumber = localStorage.getItem('WaterVisClientNumber');
+    if(clientNumber===null)
+          clientNumber=-1;
+
+    socket = io({query:'clientNumber='+clientNumber});
+	
+	socket.on('connectionEstablished', function(init){
+      console.log(init);
+      localStorage.setItem('WaterVisClientNumber', init.clientNumber);
+      snapshotPool = init.snapshots;
+	  
+	  console.log(snapshotPool.length);
+	  for(var i=0;i<snapshotPool.length;i++){
+		var tile = createTile(snapshotPool[i]);
+		tile.bind('click', function() {
+		  socket.emit('snapshotSelected',{clientNumber : localStorage.getItem('WaterVisClientNumber'), snapshotID:this.id});
+		});
+		$('#container').append(tile);
+	  }
+    });
+	
+	socket.on('newSnapshotCreated', function(snapshot){
+		snapshotPool.push(snapshot);
+		var tile = createTile(snapshot);
+		tile.bind('click', function() {
+		  socket.emit('snapshotSelected',{clientNumber : localStorage.getItem('WaterVisClientNumber'), snapshotID:this.id});
+		  tile.style.border = 'red';
+		});
+		$('#container').append(tile);
+    });
+	
+	function createTile(snapshot){
+	  var table = $('<table></table>');
+	  table.attr('id',snapshot.ID);
+	  var firstRow = $('<tr></tr>');
+	  firstRow.append($('<td></td>').attr('rowspan',3).append( $('<img />',{src: snapshot.icon, alt:'ICON'})));
+	  firstRow.append($('<td></td>').text(snapshot.title));
+	  table.append(firstRow);
+	  table.append($('<tr><td></td></tr>').text(snapshot.description));
+	  var d = new Date(snapshot.date);
+	  table.append($('<tr><td></td></tr>').text(d.getHours()+":"+d.getMinutes()+":"+d.getSeconds()));
+
+	  return table;
+	}
+</script>
+</head>
+<body>
+    <div id="container" class="s"></div>    
+</body>
+</html>

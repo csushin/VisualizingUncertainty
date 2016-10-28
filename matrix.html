@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Geotiff Demo</title>
+<link rel="stylesheet" href="css/font-awesome-4.2.0//css/font-awesome.min.css" />
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css"/>
+<link rel="stylesheet" href="css/d3.slider.css" />
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+<link rel="stylesheet" href="css/c3.min.css" />
+<link rel="stylesheet" href="css/matrix.css" />
+<!-- <link rel="stylesheet" href="css/dragdealer.css" /> -->
+<script>L_PREFER_CANVAS = true;</script>
+<script src="http://leaflet-cdn.s3.amazonaws.com/build/master/leaflet.js"></script>
+<!-- <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script> -->
+<script type ="text/javascript" src="lib/jquery-2.1.1.min.js"></script>
+<script type ="text/javascript" src="lib/jquery-ui-1.11.0/jquery-ui.js"></script>
+<script type ="text/javascript" src="lib/d3/d3.min.js"></script>
+<script type ="text/javascript" src="lib/d3.slider.js"></script>
+<script type="text/javascript" src="lib/progressbar.js"></script>
+<script type="text/javascript" src="lib/c3.min.js"></script>
+<script type="text/javascript" src="lib/shp.min.js"></script>
+<script type="text/javascript" src="lib/easy-button.js"></script>
+<script type="text/javascript" src="lib/leaflet-areaselect.js"></script>
+<script type="text/javascript" src="lib/bootstrap.min.js"></script>
+<!-- <script type = "text/javascript" src="lib/dragdealer.js"></script> -->
+<script type = "text/javascript" src="javascript/public/imageGenerator.js"></script>
+<script type = "text/javascript" src="javascript/public/imgFastGeneration.js"></script>
+<script type = "text/javascript" src="javascript/public/createColorMapper.js"></script>
+<script type = "text/javascript" src="javascript/matrix/globalvariables.js"></script>
+<script type = "text/javascript" src="javascript/matrix/createMatrix.js"></script>
+<script type = "text/javascript" src="javascript/matrix/generateImgSrc.js"></script>
+<script type = "text/javascript" src="javascript/matrix/ready.js"></script>
+</head>
+<body>
+<div id='mainContainer'>
+	  <div id='paramContainer'>
+	  <input type='button' id='getMatrixBtn' value='Display Matrix Here' onClick='generateImgSrc()'/>
+	  </div>
+	  <div id='matrixContainer'>
+	  </div>
+</div>
+</body>
+</html>

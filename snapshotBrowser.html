@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <title>Geotiff Demo - Snapshots</title>
+    <link rel="stylesheet" href="css/snapshotBrowser.css" />
+    <script type ="text/javascript" src="lib/jquery-2.1.1.min.js"></script>
+    <script type ="text/javascript" src="lib/jquery-ui-1.11.0/jquery-ui.js"></script>
+    <script type = "text/javascript" src="/socket.io/socket.io.js"></script>
+    <script type ="text/javascript" src="javascript/snapshotBrowser/SnapshotManager.js"></script>
+    <script type ="text/javascript">
+
+      var snapshotManager;
+
+      function init(){
+
+	  var groupOptions = [];
+	  groupOptions['GCM'] = ['MPI-ESM-LR', 'HadGEM2-ES', 'EC-EARTH-r12', 'CNRM-CM5', 'EC-EARTH-r3'];
+	  groupOptions['RCM'] = ['CCLM', 'HIRHAM'];
+	  snapshotManager = new SnapshotManager('container', groupOptions);
+	  var clientNumber = localStorage.getItem('WaterVisClientNumber');
+	  if(clientNumber===null)
+              clientNumber=-1;
+
+	  socket = io({query:'clientNumber='+clientNumber});
+	  
+	  socket.on('connectionEstablished', function(init){
+	      console.log(init);
+	      localStorage.setItem('WaterVisClientNumber', init.clientNumber);
+	      snapshotManager.setSnapshots(init.snapshots);
+	      snapshotManager.groupBy = $('#groupByDropDownBox option:selected')[0].id;
+	      snapshotManager.showSnapshots();
+	  });
+	  
+		
+	  socket.on('newSnapshotCreated', function(snapshot){		
+        snapshotManager.addSnapshot(snapshot);
+		snapshotManager.showSnapshots();
+	  });
+
+	  window.addEventListener( 'SnapshotClicked', function (e) {
+	      console.log('Snapshot '+e.detail.snapshotID+' Selected');
+	      socket.emit('snapshotSelected',{clientNumber : localStorage.getItem('WaterVisClientNumber'), snapshotID:e.detail.snapshotID});
+	  }, false );
+      }
+
+      function updateGroups(){
+	  snapshotManager.groupBy = $('#groupByDropDownBox option:selected')[0].id;
+	  snapshotManager.showSnapshots();
+      }
+
+    </script>
+
+
+  </head>
+  <body id="body" class="snapshotBrowser" onload="init();">
+    <div class="groupByBox">Group by:
+      <select id="groupByDropDownBox" onchange="updateGroups();">
+	<option id="GCM">Global Model</option>
+	<option id="RCM">Regional Model</option>
+      </select>
+    </div>
+    <div id="container"></div>
+  </body>
+</html>

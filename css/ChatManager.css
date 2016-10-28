@@ -1,0 +1,8 @@
+
+div.chat { margin:0px !important;padding:10px !important; overflow:hidden !important; dispaly:block; boder:5px solid #000;}
+div.chat h1 { font-size: 2em; margin:10px 0px;}
+div.chat input[type='Text'] { margin-bottom:10px;padding: 5px 10px; float:left; border:1px solid #000; border-radius:10px;}
+div.chat input[type='Button'] { margin-bottom:10px;padding: 5px 10px; float:right; border:1px solid #000; border-radius:10px; cursor:pointer; width:90px; font-weight:bold;}
+div.chat ul { list-style-type: none; margin: 0; padding: 0; overflow-y:scroll; margin-bottom:10px; border:1px solid #000; border-radius:10px;}
+div.chat ul li { padding: 5px 10px; }
+div.chat ul li:nth-child(odd) { background: #eee; }

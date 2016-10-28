@@ -1,0 +1,4 @@
+Blue Water maps were obtained as the sum of the local runoff plus river corridor discharge (Vorosmarty et al. 2005).
+More specifically:
+(1) we extracted the annual runoff from the regional climate simulations (0.44° resolution);
+(2) we applied a simple routing scheme based on terrain gradients

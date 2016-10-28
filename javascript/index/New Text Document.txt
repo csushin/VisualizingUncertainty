@@ -1,0 +1,79 @@
+var options = function (editableLayers){
+    var options = {
+      draw: {
+          polyline: false,
+          polygon: false,
+          circle: false, // Turns off this drawing tool
+          rectangle: {
+              shapeOptions: {
+                  clickable: true
+              }
+          },
+          marker: false
+      },
+      edit: {
+          featureGroup: editableLayers, //REQUIRED!!
+          remove: true
+      }
+    };
+    return options;
+};
+var popEditableLayers = new L.FeatureGroup();
+var waterEditableLayers = new L.FeatureGroup();
+var scarcityEditableLayers = new L.FeatureGroup();
+
+
+popMap.addLayer(popEditableLayers);
+var popDrawControl = new L.Control.Draw(options(popEditableLayers));
+popMap.addControl(popDrawControl);
+
+waterMap.addLayer(waterEditableLayers);
+var waterDrawControl = new L.Control.Draw(options(waterEditableLayers));
+waterMap.addControl(waterDrawControl);
+
+scarcityMap.addLayer(scarcityEditableLayers);
+var scarcityDrawControl = new L.Control.Draw(options(scarcityEditableLayers));
+scarcityMap.addControl(scarcityDrawControl);
+
+
+popMap.on('draw:created', function (e) {
+    var type = e.layerType,
+        layer = e.layer;
+
+    if (type === 'marker') {
+        layer.bindPopup('A popup!');
+    }
+
+    popEditableLayers.addLayer(layer);
+});
+
+// popMap.on('draw:edited', function (e) {
+//     var layers = e.layers;
+//     layers.eachLayer(function (layer) {
+//         //do whatever you want, most likely save back to db
+//         console.log(layer);
+//     });
+// });
+
+
+// waterMap.on('draw:created', function (e) {
+//     var type = e.layerType,
+//         layer = e.layer;
+
+//     if (type === 'marker') {
+//         layer.bindPopup('A popup!');
+//     }
+
+//     waterEditableLayers.addLayer(layer);
+    
+// });
+
+// scarcityMap.on('draw:created', function (e) {
+//     var type = e.layerType,
+//         layer = e.layer;
+
+//     if (type === 'marker') {
+//         layer.bindPopup('A popup!');
+//     }
+//     scarcityEditableLayers.addLayer(layer);
+// });

@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+   <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <link rel="stylesheet" href="css/uncertaintyPanel.css" />
+  <!-- <link rel="stylesheet" href="http://openlayers.org/en/v3.2.1/css/ol.css" type="text/css"> -->
+  <link rel="stylesheet" href="lib/jquery-ui-1.11.4.custom/jquery-ui.min.css">
+  <link rel="stylesheet" href="lib/jquery-ui-1.11.4.custom/jquery-ui.theme.min.css">
+  <link rel="stylesheet" href="lib/jquery-ui-1.11.4.custom/jquery-ui.structure.min.css">
+  <link rel="stylesheet" href="css/bootstrap-css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/bootstrap-css/bootstrap-theme.min.css" />
+  <link rel="stylesheet" href="css/bootstrap-slider.css" />
+  <link rel="stylesheet" href="css/leaflet.0.7.3.css" />
+  <link rel="stylesheet" href="css/font-awesome-4.2.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="css/leaflet-areaselect.css" />
+
+ 
+  <!-- // <script src="http://openlayers.org/en/v3.2.1/build/ol.js" type="text/javascript"></script> -->
+  <script type = "text/javascript" src="lib/leaflet-src.js"></script>
+  <script type = "text/javascript" src="lib/d3/d3.min.js"></script>
+  <script type = "text/javascript" src="lib/jquery-2.1.1.min.js"></script>
+  <script type = "text/javascript" src="lib/jquery-ui-1.11.4.custom/jquery-ui.js"></script>
+  <script type = "text/javascript" src="lib/bootstrap.min.js"></script>
+  <script type = "text/javascript" src="lib/leaflet-areaselect.js"></script>
+  <script type = "text/javascript" src="lib/easy-button.js"></script>
+  <script type = "text/javascript" src="javascript/public/imgFastGeneration.js"></script>
+  <script type = "text/javascript" src="javascript/uncertainty/legend.js"></script>
+  <script type = "text/javascript" src="javascript/uncertainty/geoserverRequest.js"></script>
+  <script type = "text/javascript" src="javascript/uncertainty/createMapIconsEvent.js"></script>
+  <script type = "text/javascript" src="javascript/uncertainty/eventFunc.js"></script>
+  <script type = "text/javascript" src="javascript/uncertainty/globalvariable.js"></script>
+  <script type = "text/javascript" src="javascript/uncertainty/originScarcity.js"></script>
+  <script type = "text/javascript" src="javascript/uncertainty/readyFunc.js"></script>
+  <script type = "text/javascript" src="javascript/uncertainty/MapManager.js"></script>
+  
+
+  <!-- // <script type = "text/javascript" src='javascript/uncertaintyPanel/map.js'></script> -->
+</head>
+<body>
+  <div id='mainContainer'>
+			<div id='mapZone'>
+          <div id='agreementMap'></div>
+          <div id='entropyMap'></div>
+          <div id='meanvarianceMap'></div>
+			</div>
+      <div id='scarcityShortcuts'></div>
+			<div id='interactionZone'>
+          <div id='controlPanelZone'>
+              <div id='popSelectDiv'>
+                  Population:
+                  <select id='popSelect'></select>
+                  <div id='popGrwothText'>Growth Rate: </div>
+                  <div id='popGrwothSlider'></div>
+                  <div id='popTimeText'>Year: 2010</div>
+                  <div id='popYearSlider'></div>
+              </div>
+              <div id='scenarioDiv'>
+                  Scenario:
+                  <select id='scenarioSelect'></select> 
+              </div>
+              <div id='emissionDiv'>   
+                  Emission: 
+                  <select id='emissionSelect'></select>
+              </div>
+
+
+          </div>
+				  <div id='legendZone'>
+                <div id='agreeLegend'>Legend for Agreement Map</div>
+          </div>
+			</div>
+  </div>
+<script src = "javascript/uncertainty/map.js"></script>
+</body>
+</html>
